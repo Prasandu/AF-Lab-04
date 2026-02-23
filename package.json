@@ -1,0 +1,20 @@
+{
+  "name": "af-lab-04",
+  "version": "1.0.0",
+  "description": "application Framework lab 4",
+  "homepage": "https://github.com/Prasandu/AF-Lab-04#readme",
+  "bugs": {
+    "url": "https://github.com/Prasandu/AF-Lab-04/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prasandu/AF-Lab-04.git"
+  },
+  "license": "ISC",
+  "author": "prasandu Yasith",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  }
+}
